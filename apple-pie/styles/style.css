@@ -1,0 +1,43 @@
+header {
+  height: 300px;
+  margin: 0 auto;
+  background-image: url('../images/apple-pie.jpg');
+  background-size: cover;
+}
+body {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+header h1 {
+  color: aliceblue;
+  padding-top: 4em;
+  text-align: center;
+}
+
+article {
+  margin: 20px 40px;
+  text-align: center;
+}
+
+.img-div {
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 10px auto;
+  width: 40%;
+  height: 50%;
+}
+
+ul {
+  list-style: inside;
+}
+
+br {
+  color: black;
+  height: 10px;
+  display: block;
+
+}
